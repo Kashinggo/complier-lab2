@@ -1,0 +1,5 @@
+string %str;
+str:= 'sample program in TINY+ language- computes factorial:
+read x;
+if x>O and x<100 then {don't compute if x<=0
+end
